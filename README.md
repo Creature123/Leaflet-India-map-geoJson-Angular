@@ -1,5 +1,13 @@
 # AngularMap
 
+## Final OutPut
+<img width="850" alt="Screenshot 2023-05-26 at 11 28 33 AM" src="https://github.com/Creature123/Leaflet-India-map-geoJson-Angular/assets/13292898/3c2e31f2-de88-4315-bbfd-f24c6e83d3d1">
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
